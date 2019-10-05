@@ -1,0 +1,25 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  background-image: url("comingsoon.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.navbar {
+  width: 100%;
+  background-color: white;
+  border-right: 6% solid grey;
+  height: 20%;
+  text-align: right;
+}
+.navlink{
+  display: inline-block;
+  width:3%;
+  height: 40px;
+  line-height: 35px;
+  text-align: center;
+  color: white;
+  background-color: grey;
+}
