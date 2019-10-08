@@ -32,11 +32,11 @@ img{
 #icons{
   display:inline-block;
   width: 50%;
-  margin: 10px 12px 0px 722px;
-  word-spacing: 50px;
+  padding: 0% 0% 0% 38%;
+  word-spacing: 49px;
 }
 #menu{
   display: inline-block;
-  margin: 10px 10px 30px 725px;
-  word-spacing: 20px
+  padding: 0% 0% 0% 38%;
+  word-spacing: 19px
 }
